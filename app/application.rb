@@ -9,7 +9,7 @@ class Application
     if num1 == num2 && num2 == num3
       resp.write "Hello, World"
     else
-      
+
     end
     resp.finish
   end
